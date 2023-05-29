@@ -39,7 +39,7 @@ function HeroHome() {
             <h2 className="md:text-5xl font-extrabold leading-tighter tracking-tighter mb-4"><span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400">Relax, Hypnosis, Sleep</span></h2>
             
             <div className="max-w-3xl mx-auto">
-              <p className="text-xl text-gray-600 mb-8" data-aos="zoom-y-out" data-aos-delay="150">Light Sleep app is an exquisite food white noise application. It provides a collection of various white noise effects such as food chewing, cooking, kitchen, etc., making you feel like you are in the world of food and enjoy an auditory feast.</p>
+              <p className="text-xl text-gray-600 mb-8" data-aos="zoom-y-out" data-aos-delay="150">Minimal Sleep is an app dedicated to improving physical and mental health. It provides users with white noise in various scenarios such as sleep, meditation, relaxation, and concentration, helping users obtain short-term tranquility in their busy lives.</p>
               <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center" data-aos="zoom-y-out" data-aos-delay="300">
                 <div>
                   <a className="btn text-white bg-blue-600 hover:bg-blue-700 w-full mb-4 sm:w-auto sm:mb-0" href="https://apps.apple.com/app/id6449638248">Apple Store</a>

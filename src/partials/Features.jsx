@@ -32,8 +32,8 @@ function Features() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h1 className="h2 mb-4">Nice voice from food</h1>
-            <p className="text-xl text-gray-600">Making you feel like you are in the world of food and enjoy an auditory feast.</p>
+            <h1 className="h2 mb-4">Nice voice from nature</h1>
+            <p className="text-xl text-gray-600">Various sounds from life and nature.</p>
           </div>
 
           {/* Section content */}
