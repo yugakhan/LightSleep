@@ -60,7 +60,7 @@ function HeroHome() {
           <div>
             <div className="relative flex justify-center mb-8" data-aos="zoom-y-out" data-aos-delay="450">
               <div className="flex flex-col justify-center">
-                <img className="mx-auto" src={HeroImage} width="768" height="432" alt="Hero" />
+                <img className="mx-auto" src={HeroImage} width="900" alt="Hero" />
               </div>
               
             </div>
